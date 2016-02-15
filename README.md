@@ -1,0 +1,1 @@
+Craig Morton's basic Ruby solutions to Project Euler problems found at projecteuler.net/archives.
